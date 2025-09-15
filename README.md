@@ -1,22 +1,22 @@
 # Eduardo-Amorim-Test
 
-Conforme solicitado as configurações dos tópicos Kafka foram feitas e criadas em uma interface para usar os conceitos de S.O.L.I.D
+Conforme solicitado, as configurações dos tópicos Kafka foram feitas e criadas em uma interface para usar os conceitos de S.O.L.I.D.
 
-As chamadas dos tópicos possuem cada uma seu proprio endereço e também herança.
+As chamadas dos tópicos possuem cada uma seu próprio endereço e também herança.
 
-No teste foi pedido um CRUD, para que ficasse mais organizado e usando os padrões do projeto (DDD) cada Entidade tem seu proprio repository e também sua interface.
+No teste, foi pedido um CRUD, e para que ficasse mais organizado e seguindo os padrões do projeto (DDD), cada entidade tem seu próprio repositório e também sua interface.
 
-Nos testes unitarios foi usado Mock (Biblioteca nativa do .Net) e também o NUit para manter as referencias FAKER das entidades.
+Nos testes unitários, foi usado Mock (biblioteca nativa do .NET) e também o NUint para manter as referências FAKER das entidades.
 
-Usando a Injeção de Dependencia foi deixado todos os Handlers e Repositorios padronizados para seguir o exemplo do projeto.
+Usando a Injeção de Dependência, foram deixados todos os Handlers e Repositórios padronizados para seguir o exemplo do projeto.
 
-O migration está atualizado com a ultima versão usando também as referencias corretas de cada tabela.
+O migration está atualizado com a última versão, usando também as referências corretas de cada tabela.
 
-Padrões usados:
-  S.O.L.I.D
-  CLEAN CODE
-  D.D.D
-  CQRS (Para as chamadas individuais)
+Padrões usados: 
+- S.O.L.I.D
+- CLEAN CODE
+- DDD
+- CQRS (para as chamadas individuais).
 
 
 _______________________________________________________
